@@ -1,0 +1,15 @@
+{
+    "name": "efqan/efganmvctest",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "efgan",
+            "email": "efqanesc@gmail.com"
+        }
+    ],
+    "require": {}
+}
